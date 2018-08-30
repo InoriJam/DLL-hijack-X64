@@ -12,4 +12,4 @@ This is a python script to generate a hijacked dll to do whatever you want
 4. The generated project is using MT Mode, which means the dll will include the VC runtime, thus the size of dll will be larger, but the benefit is that we do not need to worry about VC runtime.If You do not want to use MT Mode, change to MD Mode.
 
 ## License:
-Licensed under [GLP V2.0](https://github.com/InoriJam/DLL-hijack-X64/blob/master/LICENSE)
+Licensed under [GPL V2.0](https://github.com/InoriJam/DLL-hijack-X64/blob/master/LICENSE)
